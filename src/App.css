@@ -1,0 +1,13 @@
+.gosterge {
+  height: 40px;
+  width: 190px;
+  background-color: rgb(188, 190, 190);
+  color: black;
+  border: 3px;
+  border-radius: 2px;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  display: flex;
+  font-size: 20px;
+}
